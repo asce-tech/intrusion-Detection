@@ -19,3 +19,9 @@ The UNSW NB15 dataset plays a role in advancing research on network intrusion de
 - Heat map to show relationships between variables in a dataset. It uses colors to represent values, making it easy to see patterns and trends.
 - Sklearn for various machine learning algorithms, model evaluation, and data preprocessing techniques.
 - XGBOOST for an optimized distributed gradient boosting library designed to be highly efficient, flexible, and portable.
+  
+## Steps
+1. Download dataset from the link "https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15". 
+2. Extract and Classify the dataset.
+3. Observe the 8 classified files named .csv
+4. Copy / Download the python code and observe the results.
